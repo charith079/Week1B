@@ -1,1 +1,2 @@
 hello from text file 1 
+hoe are you from text file 1 
